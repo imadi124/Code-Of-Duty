@@ -68,6 +68,7 @@
 - Pandas
 - Matplotlib
 - Seaborn
+- Power BI
 
 ---
 
@@ -91,12 +92,19 @@ The project includes a wide range of insightful visualizations such as:
 
 ---
 
+## 📈 Power BI Dashboards 
+![image](https://github.com/user-attachments/assets/c4a8ee7c-ccc1-44b5-bd34-a3708287f42e)
+
+---
+
 ## 📂 Project Structure
 ```
 📦 Code Of Duty - Purchase Behaviour Analysis/
 ├── Customer_Purchase_Behaviour_Analysis.ipynb
 ├── Diwali Sales Data.csv
 ├── LICENSE
+├── Analysis_POWER_BI.pbix
+├── POWER BI ANALYSIS CONCLUSION.docx
 └── README.md
 ```
 
